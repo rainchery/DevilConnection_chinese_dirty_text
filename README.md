@@ -1,5 +1,8 @@
-# DevilConnection_chinese_dirty
-某 汉化补丁1.0.1 的部分，合并ver 1.00的脏话<br>
-恢复 有“妈”的部分。
-
+# DevilConnection_chinese_dirty_text
+某 汉化补丁Ver 1.0.1 部分文本回滚，合并ver 1.00的脏话<br>
+恢复 有“妈”的部分。<br>
+<br>
 个人行为，仅供急用
+<br>
+锐评:V1.01替换或删除了V1.0部分脏话，因为要修改的内容过多，负优化不彻底（摆），<br>
+个人合并ver 1.00的脏话节省了很多时间，感谢
